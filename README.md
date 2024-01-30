@@ -2,6 +2,10 @@
 
 Welcome to TriviaCity, a web-based trivia game developed by a group of passionate students from the College of North Atlantic's Software Development Program. Our game is designed to test your knowledge about cities from around the world while providing an entertaining and educational experience.
 
+## TriviaCity Demo
+
+https://github.com/ImransCodeHub/js-trivia-city-project/assets/97769980/8cff61e5-50f2-4ddb-82bd-e337d3565a6f
+
 ## About Us
 We are a group of second-year college students who share a love for trivia and exploring cities. Through our Software Development Program, we've combined our passion for technology with our interest in trivia to create TriviaCity.
 
